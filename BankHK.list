@@ -1,0 +1,32 @@
+# 汇丰香港
+HOST-SUFFIX,hsbc.com.hk,direct
+HOST,hk.hsbc.com,direct
+HOST-SUFFIX,vam-hk.cloud1.vv1865.com,direct
+
+# 恒生、中银香港、东亚、渣打、花旗、星展
+HOST-SUFFIX,hangseng.com,direct
+HOST-SUFFIX,bochk.com,direct
+HOST-SUFFIX,hkbea.com,direct
+HOST-SUFFIX,sc.com,direct
+HOST-SUFFIX,citibank.com.hk,direct
+HOST-SUFFIX,dbs.com.hk,direct
+
+# 工银亚洲、建行亚洲
+HOST-SUFFIX,icbcasia.com,direct
+HOST-SUFFIX,asia.ccb.com,direct
+HOST-SUFFIX,online.asia.ccb.com,direct
+
+# 华侨银行、华侨永亨、南洋银行、中信国际、招商永隆
+HOST-SUFFIX,ocbc.com.hk,direct
+HOST-SUFFIX,ocbcwhhk.com,direct
+HOST-SUFFIX,ncb.com.hk,direct
+HOST-SUFFIX,cncbinternational.com,direct
+HOST-SUFFIX,cmbwinglungbank.com,direct
+
+# 大新银行及虚拟银行
+HOST-SUFFIX,dahsing.com,direct
+HOST-SUFFIX,za.group,direct
+HOST-SUFFIX,cdn.zaticdn.com,direct
+HOST-SUFFIX,welab.bank,direct
+HOST-SUFFIX,fusionbank.com,direct
+HOST-SUFFIX,mox.com,direct
